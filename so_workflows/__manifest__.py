@@ -1,6 +1,6 @@
 {
 
-    'name':'Sale Order WorkFlows',
+    'name':'Sale Order WorkFlows (Single Level)',
     'description' : 'SO WorkFlows',
     'author' : 'Hafeez Brothers',
     
