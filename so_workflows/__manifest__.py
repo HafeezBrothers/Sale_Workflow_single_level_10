@@ -2,6 +2,8 @@
 
     'name':'Sale Order WorkFlows',
     'description' : 'SO WorkFlows',
+    'license': 'LGPL-3',
+    'version' : '1.0',
     'author' : 'Hafeez Brothers',
     
     'depends' : [
